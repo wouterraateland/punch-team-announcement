@@ -1,0 +1,53 @@
+.grid {
+	padding: .5rem;
+	text-align: left;
+
+	&.small  { max-width: 32rem; }
+	&.medium { max-width: 48rem; }
+	&.wide   { max-width: 64rem; }
+	&.full   { max-width: 100%; }
+
+	&::before,
+	&::after {
+		content: '';
+		display: block;
+		clear: both;
+	}
+
+	@media screen and (max-width: 767px) {
+		&.medium { max-width: 24.5rem; }
+
+		.col1  { width:  (200% / 12); }
+		.col2  { width:  (400% / 12); }
+		.col3  { width:  (600% / 12); }
+		.col4  { width:  (800% / 12); }
+		.col5  { width: (1000% / 12); }
+		.col6  { width: (1200% / 12); }
+		.col7  { width: (1200% / 12); }
+		.col8  { width: (1200% / 12); }
+		.col9  { width: (1200% / 12); }
+		.col10 { width: (1200% / 12); }
+		.col11 { width: (1200% / 12); }
+		.col12 { width: (1200% / 12); }
+	}
+
+	@media screen and (min-width: 768px) {
+		.col1  { width:  (100% / 12); }
+		.col2  { width:  (200% / 12); }
+		.col3  { width:  (300% / 12); }
+		.col4  { width:  (400% / 12); }
+		.col5  { width:  (500% / 12); }
+		.col6  { width:  (600% / 12); }
+		.col7  { width:  (700% / 12); }
+		.col8  { width:  (800% / 12); }
+		.col9  { width:  (900% / 12); }
+		.col10 { width: (1000% / 12); }
+		.col11 { width: (1100% / 12); }
+		.col12 { width: (1200% / 12); }
+	}
+
+	[class*="col"] {
+		float: left;
+		padding: .5rem;
+	}
+}

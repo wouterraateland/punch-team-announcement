@@ -1,0 +1,27 @@
+#notStartedOverlay {
+	position: fixed;
+	left: 0; top: 0; right: 0; bottom: 0;
+	z-index: 2;
+
+	display: none;
+	align-items: center;
+	justify-content: center;
+	
+	padding: 1em;
+
+	background-color: $punch_blue;
+
+	&.visible {
+		display: flex;
+	}
+
+	p {
+		padding-top: 3em;
+
+		font-size: 2em;
+		text-align: center;
+
+		background: url('../images/logo.png') no-repeat top;
+		background-size: 8em;
+	}
+}

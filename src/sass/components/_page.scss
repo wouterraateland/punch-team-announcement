@@ -1,0 +1,29 @@
+body {
+	font-family: $copy-font;
+
+	background-color: $punch-blue;
+	color: $white;
+}
+
+h1, h2, h3, h4, h5, h6 {
+	margin: 1em 0;
+	
+	font-family: $header-font;
+	font-weight: normal;
+}
+
+footer {
+	padding: 1em;
+	text-align: right;
+}
+
+a {
+	font-weight: bold;
+	text-decoration: none;
+
+	color: inherit;
+
+	&:hover {
+		text-decoration: underline;
+	}
+}

@@ -1,0 +1,60 @@
+.team-card {
+	@include shadow(1rem);
+
+	display: inline-block;
+	width: calc(100% - 1rem);
+	max-width: 22.5rem;
+	padding: 1rem;
+	margin: .5rem;
+
+	border-radius: .25rem;
+
+	background-color: $white;
+	color: $black;
+
+	.title {
+		margin: 0 0 1rem;
+	}
+
+	.trainer {
+		margin-left: 8rem;
+		
+		&::before {
+			content: "Trainer:";
+
+			position: absolute;
+			margin-left: -8rem;
+
+			font-weight: bold;
+		}
+	}
+
+	.player-list {
+		margin-top: 1rem;
+		
+		&::before {
+			content: "Spelers:";
+
+			font-weight: bold;
+		}
+	}
+
+	.player {
+		display: block;
+		margin: 1em 0;
+
+		white-space: nowrap;
+		overflow: hidden;
+		text-overflow: ellipsis;
+
+		&:empty {
+			display: none;
+		}
+
+		&::before {
+			content: attr(data-position);
+			display: inline-block;
+			width: 8rem;
+		}
+	}
+}

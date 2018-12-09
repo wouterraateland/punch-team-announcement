@@ -1,0 +1,1412 @@
+{
+	"teams": [
+		{
+			"shortName": "H1",
+			"name": "Heren 1",
+			"coach": "Hammad Fuller",
+			"players": [
+				{
+					"position": "Spelverdeler",
+					"name": "Kris Gillespie",
+				},
+				{
+					"position": "Spelverdeler",
+					"name": "Lillie-Mae Lucas",
+				},
+				{
+					"position": "Buiten",
+					"name": "Omari Morin",
+				},
+				{
+					"position": "Buiten",
+					"name": "Emmanuel Wheeler",
+				},
+				{
+					"position": "Buiten",
+					"name": "Darrel Grant",
+				},
+				{
+					"position": "Buiten",
+					"name": "Yusuf Brock",
+				},
+				{
+					"position": "Midden",
+					"name": "Isobel Byers",
+				},
+				{
+					"position": "Midden",
+					"name": "Caius Knapp",
+				},
+				{
+					"position": "Midden",
+					"name": "Quentin Joyce",
+				},
+				{
+					"position": "Diagonaal",
+					"name": "Tabatha Downes",
+				},
+				{
+					"position": "Diagonaal",
+					"name": "Nathaniel Burrows",
+				},
+				{
+					"position": "Libero",
+					"name": "Kimora Charles",
+				},
+			]
+		},
+		{
+			"shortName": "H2",
+			"name": "Heren 2",
+			"coach": "Sarah-Louise Huffman",
+			"players": [
+				{
+					"position": "Spelverdeler",
+					"name": "Barbara Ayers",
+				},
+				{
+					"position": "Spelverdeler",
+					"name": "Joel Howells",
+				},
+				{
+					"position": "Buiten",
+					"name": "Flora Sanchez",
+				},
+				{
+					"position": "Buiten",
+					"name": "Nikkita King",
+				},
+				{
+					"position": "Buiten",
+					"name": "Sarah-Louise Emery",
+				},
+				{
+					"position": "Midden",
+					"name": "Liya Stafford",
+				},
+				{
+					"position": "Midden",
+					"name": "Randall Villegas",
+				},
+				{
+					"position": "Midden",
+					"name": "Sonnie Clarkson",
+				},
+
+				{
+					"position": "Diagonaal",
+					"name": "Lucca Maynard",
+				},
+				{
+					"position": "Diagonaal",
+					"name": "Damien Cartwright",
+				},
+				{
+					"position": "Libero",
+					"name": "Rheanna Nava",
+				},
+			]
+		},
+		{
+			"shortName": "H3",
+			"name": "Heren 3",
+			"coach": "Tate Preece",
+			"players": [
+				{
+					"position": "Spelverdeler",
+					"name": "Rachel Rojas",
+				},
+				{
+					"position": "Spelverdeler",
+					"name": "Sarah Britton",
+				},
+				{
+					"position": "Buiten",
+					"name": "Simeon Jacobson",
+				},
+				{
+					"position": "Buiten",
+					"name": "Rimsha Serrano",
+				},
+				{
+					"position": "Buiten",
+					"name": "Lee Rasmussen",
+				},
+				{
+					"position": "Buiten",
+					"name": "Colton Kumar",
+				},
+				{
+					"position": "Midden",
+					"name": "Keith Powell",
+				},
+				{
+					"position": "Midden",
+					"name": "Tamara Mora",
+				},
+				{
+					"position": "Midden",
+					"name": "Renesmee Hackett",
+				},
+				{
+					"position": "Diagonaal",
+					"name": "Collette Kirk",
+				},
+				{
+					"position": "Diagonaal",
+					"name": "Hayleigh Peacock",
+				},
+				{
+					"position": "Libero",
+					"name": "Ruben Hahn",
+				},
+			]
+		},
+		{
+			"shortName": "H4",
+			"name": "Heren 4",
+			"coach": "Aamina Sutton",
+			"players": [
+				{
+					"position": "Spelverdeler",
+					"name": "Sulaiman Mullins",
+				},
+				{
+					"position": "Spelverdeler",
+					"name": "Layla Sandoval",
+				},
+				{
+					"position": "Buiten",
+					"name": "Jo Jimenez",
+				},
+				{
+					"position": "Buiten",
+					"name": "Junior Barker",
+				},
+				{
+					"position": "Buiten",
+					"name": "Marguerite Pitt",
+				},
+
+				{
+					"position": "Midden",
+					"name": "Jaydon Pena",
+				},
+				{
+					"position": "Midden",
+					"name": "Hadi Watt",
+				},
+				{
+					"position": "Midden",
+					"name": "Coen Brewer",
+				},
+				{
+					"position": "Midden",
+					"name": "Niko Duncan",
+				},
+				{
+					"position": "Diagonaal",
+					"name": "Hywel Knowles",
+				},
+				{
+					"position": "Diagonaal",
+					"name": "Jaheim Knox",
+				},
+				{
+					"position": "Libero",
+					"name": "Brooklyn Beard",
+				},
+			]
+		},
+		{
+			"shortName": "H5",
+			"name": "Heren 5",
+			"coach": "Ayrton Rhodes",
+			"players": [
+				{
+					"position": "Spelverdeler",
+					"name": "Emir Trejo",
+				},
+				{
+					"position": "Spelverdeler",
+					"name": "Shaunna Bond",
+				},
+				{
+					"position": "Buiten",
+					"name": "Caio Alston",
+				},
+				{
+					"position": "Buiten",
+					"name": "Robin Ritter",
+				},
+				{
+					"position": "Buiten",
+					"name": "Lilianna Reyna",
+				},
+				{
+					"position": "Buiten",
+					"name": "Atlas Blevins",
+				},
+				{
+					"position": "Midden",
+					"name": "Kealan Nielsen",
+				},
+				{
+					"position": "Midden",
+					"name": "Bronte Mackenzie",
+				},
+				{
+					"position": "Midden",
+					"name": "Jago Munro",
+				},
+				{
+					"position": "Diagonaal",
+					"name": "Roxanne Parker",
+				},
+				{
+					"position": "Diagonaal",
+					"name": "Lucien Bob",
+				},
+				{
+					"position": "Libero",
+					"name": "Karan Ferrell",
+				},
+			]
+		},
+		{
+			"shortName": "H6",
+			"name": "Heren 6",
+			"coach": "Susanna Huff",
+			"players": [
+				{
+					"position": "Spelverdeler",
+					"name": "Hermione Costa",
+				},
+				{
+					"position": "Spelverdeler",
+					"name": "Oskar Kirkland",
+				},
+				{
+					"position": "Buiten",
+					"name": "Franciszek Benitez",
+				},
+				{
+					"position": "Buiten",
+					"name": "Fynley Clifford",
+				},
+				{
+					"position": "Buiten",
+					"name": "Jac Myers",
+				},
+				{
+					"position": "Midden",
+					"name": "Edna Avila",
+				},
+				{
+					"position": "Midden",
+					"name": "Lina Hodge",
+				},
+				{
+					"position": "Midden",
+					"name": "Caspian Worthington",
+				},
+				{
+					"position": "Midden",
+					"name": "Rico Caldwell",
+				},
+				{
+					"position": "Diagonaal",
+					"name": "Rubi Velez",
+				},
+				{
+					"position": "Diagonaal",
+					"name": "Tyrique Rossi",
+				},
+
+			]
+		},
+		{
+			"shortName": "H7",
+			"name": "Heren 7",
+			"coach": "Maleeha Dean",
+			"players": [
+				{
+					"position": "Spelverdeler",
+					"name": "Lilliana Li",
+				},
+				{
+					"position": "Spelverdeler",
+					"name": "Nojus Burris",
+				},
+				{
+					"position": "Buiten",
+					"name": "Siya Mcintyre",
+				},
+				{
+					"position": "Buiten",
+					"name": "Joshua Connolly",
+				},
+				{
+					"position": "Buiten",
+					"name": "Zayn Kavanagh",
+				},
+				{
+					"position": "Buiten",
+					"name": "Nathanael Daugherty",
+				},
+				{
+					"position": "Midden",
+					"name": "Jody Garrison",
+				},
+				{
+					"position": "Midden",
+					"name": "Gina Mcdonnell",
+				},
+				{
+					"position": "Midden",
+					"name": "Alexis Vinson",
+				},
+				{
+					"position": "Diagonaal",
+					"name": "Seth Nash",
+				},
+				{
+					"position": "Diagonaal",
+					"name": "Vicky Roy",
+				},
+
+			]
+		},
+		{
+			"shortName": "H8",
+			"name": "Heren 8",
+			"coach": "Isra Merritt",
+			"players": [
+				{
+					"position": "Spelverdeler",
+					"name": "Cari Pacheco",
+				},
+				{
+					"position": "Spelverdeler",
+					"name": "Kyan Hale",
+				},
+				{
+					"position": "Buiten",
+					"name": "Salman Colley",
+				},
+				{
+					"position": "Buiten",
+					"name": "Timur Compton",
+				},
+				{
+					"position": "Buiten",
+					"name": "Una Leon",
+				},
+				{
+					"position": "Buiten",
+					"name": "Giorgio Schofield",
+				},
+				{
+					"position": "Midden",
+					"name": "Ameer Ratliff",
+				},
+				{
+					"position": "Midden",
+					"name": "Iqra Whitmore",
+				},
+				{
+					"position": "Midden",
+					"name": "Carrie-Ann Browning",
+				},
+				{
+					"position": "Midden",
+					"name": "Kellie Delacruz",
+				},
+				{
+					"position": "Diagonaal",
+					"name": "Ciara Tait",
+				},
+				{
+					"position": "Diagonaal",
+					"name": "Umer Cortez",
+				},
+
+			]
+		},
+		{
+			"shortName": "H9",
+			"name": "Heren 9",
+			"coach": "Jemima Jackson",
+			"players": [
+				{
+					"position": "Spelverdeler",
+					"name": "Kole Tyler",
+				},
+				{
+					"position": "Spelverdeler",
+					"name": "Molly Donaldson",
+				},
+				{
+					"position": "Buiten",
+					"name": "Stan Keenan",
+				},
+				{
+					"position": "Buiten",
+					"name": "Raiden Maldonado",
+				},
+				{
+					"position": "Buiten",
+					"name": "Elena Lim",
+				},
+				{
+					"position": "Buiten",
+					"name": "Arnas Norman",
+				},
+				{
+					"position": "Midden",
+					"name": "Eddie Nicholls",
+				},
+				{
+					"position": "Midden",
+					"name": "Kris Gillespie",
+				},
+				{
+					"position": "Midden",
+					"name": "Lillie-Mae Lucas",
+				},
+				{
+					"position": "Midden",
+					"name": "Omari Morin",
+				},
+				{
+					"position": "Diagonaal",
+					"name": "Emmanuel Wheeler",
+				},
+				{
+					"position": "Diagonaal",
+					"name": "Darrel Grant",
+				},
+
+			]
+		},
+		{
+			"shortName": "H10",
+			"name": "Heren 10",
+			"coach": "Colby Foley",
+			"players": [
+				{
+					"position": "Spelverdeler",
+					"name": "Yusuf Brock",
+				},
+				{
+					"position": "Spelverdeler",
+					"name": "Isobel Byers",
+				},
+				{
+					"position": "Buiten",
+					"name": "Caius Knapp",
+				},
+				{
+					"position": "Buiten",
+					"name": "Quentin Joyce",
+				},
+				{
+					"position": "Buiten",
+					"name": "Tabatha Downes",
+				},
+				{
+					"position": "Buiten",
+					"name": "Nathaniel Burrows",
+				},
+				{
+					"position": "Midden",
+					"name": "Kimora Charles",
+				},
+				{
+					"position": "Midden",
+					"name": "Barbara Ayers",
+				},
+				{
+					"position": "Midden",
+					"name": "Joel Howells",
+				},
+				{
+					"position": "Midden",
+					"name": "Flora Sanchez",
+				},
+				{
+					"position": "Diagonaal",
+					"name": "Nikkita King",
+				},
+				{
+					"position": "Diagonaal",
+					"name": "Sarah-Louise Emery",
+				},
+
+			]
+		},
+		{
+			"shortName": "H11",
+			"name": "Heren 11",
+			"coach": "Jae Johns",
+			"players": [
+				{
+					"position": "Spelverdeler",
+					"name": "Liya Stafford",
+				},
+				{
+					"position": "Spelverdeler",
+					"name": "Randall Villegas",
+				},
+				{
+					"position": "Spelverdeler",
+					"name": "Sonnie Clarkson",
+				},
+				{
+					"position": "Spelverdeler",
+					"name": "Lucca Maynard",
+				},
+				{
+					"position": "Buiten",
+					"name": "Damien Cartwright",
+				},
+				{
+					"position": "Buiten",
+					"name": "Rheanna Nava",
+				},
+				{
+					"position": "Buiten",
+					"name": "Rachel Rojas",
+				},
+				{
+					"position": "Buiten",
+					"name": "Sarah Britton",
+				},
+				{
+					"position": "Midden",
+					"name": "Simeon Jacobson",
+				},
+				{
+					"position": "Midden",
+					"name": "Rimsha Serrano",
+				},
+				{
+					"position": "Midden",
+					"name": "Lee Rasmussen",
+				},
+				{
+					"position": "Midden",
+					"name": "Colton Kumar",
+				},
+
+			]
+		},
+		{
+			"shortName": "H12",
+			"name": "Heren 12",
+			"coach": "Tamsin King",
+			"players": [
+				{
+					"position": "Spelverdeler",
+					"name": "Keith Powell",
+				},
+				{
+					"position": "Spelverdeler",
+					"name": "Tamara Mora",
+				},
+				{
+					"position": "Spelverdeler",
+					"name": "Renesmee Hackett",
+				},
+				{
+					"position": "Spelverdeler",
+					"name": "Collette Kirk",
+				},
+				{
+					"position": "Buiten",
+					"name": "Hayleigh Peacock",
+				},
+				{
+					"position": "Buiten",
+					"name": "Ruben Hahn",
+				},
+				{
+					"position": "Buiten",
+					"name": "Sulaiman Mullins",
+				},
+				{
+					"position": "Buiten",
+					"name": "Layla Sandoval",
+				},
+				{
+					"position": "Midden",
+					"name": "Jo Jimenez",
+				},
+				{
+					"position": "Midden",
+					"name": "Junior Barker",
+				},
+				{
+					"position": "Midden",
+					"name": "Marguerite Pitt",
+				},
+				{
+					"position": "Midden",
+					"name": "Jaydon Pena",
+				},
+
+			]
+		},
+		{
+			"shortName": "H13",
+			"name": "Heren 13",
+			"coach": "Myla Todd",
+			"players": [
+				{
+					"position": "Omnicapabel",
+					"name": "Hadi Watt",
+				},
+				{
+					"position": "Omnicapabel",
+					"name": "Coen Brewer",
+				},
+				{
+					"position": "Omnicapabel",
+					"name": "Niko Duncan",
+				},
+				{
+					"position": "Omnicapabel",
+					"name": "Hywel Knowles",
+				},
+				{
+					"position": "Omnicapabel",
+					"name": "Jaheim Knox",
+				},
+				{
+					"position": "Omnicapabel",
+					"name": "Brooklyn Beard",
+				},
+				{
+					"position": "Omnicapabel",
+					"name": "Emir Trejo",
+				},
+				{
+					"position": "Omnicapabel",
+					"name": "Shaunna Bond",
+				},
+				{
+					"position": "Omnicapabel",
+					"name": "Caio Alston",
+				},
+				{
+					"position": "Omnicapabel",
+					"name": "Robin Ritter",
+				},
+				{
+					"position": "Omnicapabel",
+					"name": "Lilianna Reyna",
+				},
+				{
+					"position": "Omnicapabel",
+					"name": "Atlas Blevins",
+				},
+			]
+		},
+		{
+			"shortName": "D1",
+			"name": "Dames 1",
+			"coach": "Mercy Ratcliffe",
+			"players": [
+				{
+					"position": "Spelverdeler",
+					"name": "Kealan Nielsen",
+				},
+				{
+					"position": "Spelverdeler",
+					"name": "Bronte Mackenzie",
+				},
+				{
+					"position": "Buiten",
+					"name": "Jago Munro",
+				},
+				{
+					"position": "Buiten",
+					"name": "Roxanne Parker",
+				},
+				{
+					"position": "Buiten",
+					"name": "Lucien Bob",
+				},
+				{
+					"position": "Midden",
+					"name": "Karan Ferrell",
+				},
+				{
+					"position": "Midden",
+					"name": "Hermione Costa",
+				},
+				{
+					"position": "Midden",
+					"name": "Oskar Kirkland",
+				},
+				{
+					"position": "Diagonaal",
+					"name": "Franciszek Benitez",
+				},
+				{
+					"position": "Diagonaal",
+					"name": "Fynley Clifford",
+				},
+				{
+					"position": "Libero",
+					"name": "Jac Myers",
+				},
+			]
+		},
+		{
+			"shortName": "D2",
+			"name": "Dames 2",
+			"coach": "Veronica Woolley",
+			"players": [
+				{
+					"position": "Spelverdeler",
+					"name": "Edna Avila",
+				},
+				{
+					"position": "Spelverdeler",
+					"name": "Lina Hodge",
+				},
+				{
+					"position": "Buiten",
+					"name": "Caspian Worthington",
+				},
+				{
+					"position": "Buiten",
+					"name": "Rico Caldwell",
+				},
+				{
+					"position": "Buiten",
+					"name": "Rubi Velez",
+				},
+				{
+					"position": "Midden",
+					"name": "Tyrique Rossi",
+				},
+				{
+					"position": "Midden",
+					"name": "Lilliana Li",
+				},
+				{
+					"position": "Midden",
+					"name": "Nojus Burris",
+				},
+
+				{
+					"position": "Diagonaal",
+					"name": "Siya Mcintyre",
+				},
+				{
+					"position": "Diagonaal",
+					"name": "Joshua Connolly",
+				},
+				{
+					"position": "Libero",
+					"name": "Zayn Kavanagh",
+				},
+			]
+		},
+		{
+			"shortName": "D3",
+			"name": "Dames 3",
+			"coach": "Jolie Delarosa",
+			"players": [
+				{
+					"position": "Spelverdeler",
+					"name": "Nathanael Daugherty",
+				},
+				{
+					"position": "Spelverdeler",
+					"name": "Jody Garrison",
+				},
+				{
+					"position": "Buiten",
+					"name": "Gina Mcdonnell",
+				},
+				{
+					"position": "Buiten",
+					"name": "Alexis Vinson",
+				},
+				{
+					"position": "Buiten",
+					"name": "Seth Nash",
+				},
+				{
+					"position": "Midden",
+					"name": "Vicky Roy",
+				},
+				{
+					"position": "Midden",
+					"name": "Cari Pacheco",
+				},
+				{
+					"position": "Midden",
+					"name": "Kyan Hale",
+				},
+				{
+					"position": "Diagonaal",
+					"name": "Salman Colley",
+				},
+				{
+					"position": "Diagonaal",
+					"name": "Timur Compton",
+				},
+				{
+					"position": "Libero",
+					"name": "Una Leon",
+				},
+			]
+		},
+		{
+			"shortName": "D4",
+			"name": "Dames 4",
+			"coach": "Ricky Nguyen",
+			"players": [
+				{
+					"position": "Spelverdeler",
+					"name": "Giorgio Schofield",
+				},
+				{
+					"position": "Spelverdeler",
+					"name": "Ameer Ratliff",
+				},
+				{
+					"position": "Buiten",
+					"name": "Iqra Whitmore",
+				},
+				{
+					"position": "Buiten",
+					"name": "Carrie-Ann Browning",
+				},
+				{
+					"position": "Buiten",
+					"name": "Kellie Delacruz",
+				},
+				{
+					"position": "Midden",
+					"name": "Ciara Tait",
+				},
+				{
+					"position": "Midden",
+					"name": "Umer Cortez",
+				},
+				{
+					"position": "Midden",
+					"name": "Kole Tyler",
+				},
+				{
+					"position": "Diagonaal",
+					"name": "Molly Donaldson",
+				},
+				{
+					"position": "Diagonaal",
+					"name": "Stan Keenan",
+				},
+				{
+					"position": "Libero",
+					"name": "Raiden Maldonado",
+				},
+				{
+					"position": "Libero",
+					"name": "Elena Lim",
+				},
+			]
+		},
+		{
+			"shortName": "D5",
+			"name": "Dames 5",
+			"coach": "Raya Aldred",
+			"players": [
+				{
+					"position": "Spelverdeler",
+					"name": "Arnas Norman",
+				},
+				{
+					"position": "Spelverdeler",
+					"name": "Eddie Nicholls",
+				},
+				{
+					"position": "Buiten",
+					"name": "Kris Gillespie",
+				},
+				{
+					"position": "Buiten",
+					"name": "Lillie-Mae Lucas",
+				},
+				{
+					"position": "Buiten",
+					"name": "Omari Morin",
+				},
+				{
+					"position": "Buiten",
+					"name": "Emmanuel Wheeler",
+				},
+				{
+					"position": "Midden",
+					"name": "Darrel Grant",
+				},
+				{
+					"position": "Midden",
+					"name": "Yusuf Brock",
+				},
+				{
+					"position": "Midden",
+					"name": "Isobel Byers",
+				},
+				{
+					"position": "Diagonaal",
+					"name": "Caius Knapp",
+				},
+				{
+					"position": "Diagonaal",
+					"name": "Quentin Joyce",
+				},
+
+			]
+		},
+		{
+			"shortName": "D6",
+			"name": "Dames 6",
+			"coach": "Aroush Mccray",
+			"players": [
+				{
+					"position": "Spelverdeler",
+					"name": "Tabatha Downes",
+				},
+				{
+					"position": "Spelverdeler",
+					"name": "Nathaniel Burrows",
+				},
+				{
+					"position": "Buiten",
+					"name": "Kimora Charles",
+				},
+				{
+					"position": "Buiten",
+					"name": "Barbara Ayers",
+				},
+				{
+					"position": "Buiten",
+					"name": "Joel Howells",
+				},
+				{
+					"position": "Midden",
+					"name": "Flora Sanchez",
+				},
+				{
+					"position": "Midden",
+					"name": "Nikkita King",
+				},
+				{
+					"position": "Midden",
+					"name": "Sarah-Louise Emery",
+				},
+				{
+					"position": "Midden",
+					"name": "Liya Stafford",
+				},
+				{
+					"position": "Diagonaal",
+					"name": "Randall Villegas",
+				},
+				{
+					"position": "Diagonaal",
+					"name": "Sonnie Clarkson",
+				},
+
+			]
+		},
+		{
+			"shortName": "D7",
+			"name": "Dames 7",
+			"coach": "Denise Hardy",
+			"players": [
+				{
+					"position": "Spelverdeler",
+					"name": "Lucca Maynard",
+				},
+				{
+					"position": "Spelverdeler",
+					"name": "Damien Cartwright",
+				},
+				{
+					"position": "Buiten",
+					"name": "Rheanna Nava",
+				},
+				{
+					"position": "Buiten",
+					"name": "Rachel Rojas",
+				},
+				{
+					"position": "Buiten",
+					"name": "Sarah Britton",
+				},
+				{
+					"position": "Buiten",
+					"name": "Simeon Jacobson",
+				},
+				{
+					"position": "Midden",
+					"name": "Rimsha Serrano",
+				},
+				{
+					"position": "Midden",
+					"name": "Lee Rasmussen",
+				},
+				{
+					"position": "Midden",
+					"name": "Colton Kumar",
+				},
+				{
+					"position": "Diagonaal",
+					"name": "Keith Powell",
+				},
+				{
+					"position": "Diagonaal",
+					"name": "Tamara Mora",
+				},
+
+			]
+		},
+		{
+			"shortName": "D8",
+			"name": "Dames 8",
+			"coach": "Cairo Gray",
+			"players": [
+				{
+					"position": "Spelverdeler",
+					"name": "Renesmee Hackett",
+				},
+				{
+					"position": "Spelverdeler",
+					"name": "Collette Kirk",
+				},
+				{
+					"position": "Spelverdeler",
+					"name": "Hayleigh Peacock",
+				},
+				{
+					"position": "Spelverdeler",
+					"name": "Ruben Hahn",
+				},
+				{
+					"position": "Buiten",
+					"name": "Sulaiman Mullins",
+				},
+				{
+					"position": "Buiten",
+					"name": "Layla Sandoval",
+				},
+				{
+					"position": "Buiten",
+					"name": "Jo Jimenez",
+				},
+				{
+					"position": "Buiten",
+					"name": "Junior Barker",
+				},
+				{
+					"position": "Midden",
+					"name": "Marguerite Pitt",
+				},
+				{
+					"position": "Midden",
+					"name": "Jaydon Pena",
+				},
+				{
+					"position": "Midden",
+					"name": "Hadi Watt",
+				},
+				{
+					"position": "Midden",
+					"name": "Coen Brewer",
+				}
+			]
+		},
+		{
+			"shortName": "D9",
+			"name": "Dames 9",
+			"coach": "Tanya Hunter",
+			"players": [
+				{
+					"position": "Spelverdeler",
+					"name": "Niko Duncan",
+				},
+				{
+					"position": "Spelverdeler",
+					"name": "Hywel Knowles",
+				},
+				{
+					"position": "Spelverdeler",
+					"name": "Jaheim Knox",
+				},
+				{
+					"position": "Spelverdeler",
+					"name": "Brooklyn Beard",
+				},
+				{
+					"position": "Buiten",
+					"name": "Emir Trejo",
+				},
+				{
+					"position": "Buiten",
+					"name": "Shaunna Bond",
+				},
+				{
+					"position": "Buiten",
+					"name": "Caio Alston",
+				},
+				{
+					"position": "Buiten",
+					"name": "Robin Ritter",
+				},
+				{
+					"position": "Midden",
+					"name": "Lilianna Reyna",
+				},
+				{
+					"position": "Midden",
+					"name": "Atlas Blevins",
+				},
+				{
+					"position": "Midden",
+					"name": "Kealan Nielsen",
+				},
+				{
+					"position": "Midden",
+					"name": "Bronte Mackenzie",
+				}
+			]
+		},
+		{
+			"shortName": "D10",
+			"name": "Dames 10",
+			"coach": "Eoghan Waters",
+			"players": [
+				{
+					"position": "Spelverdeler",
+					"name": "Jago Munro",
+				},
+				{
+					"position": "Spelverdeler",
+					"name": "Roxanne Parker",
+				},
+				{
+					"position": "Spelverdeler",
+					"name": "Lucien Bob",
+				},
+				{
+					"position": "Spelverdeler",
+					"name": "Karan Ferrell",
+				},
+				{
+					"position": "Buiten",
+					"name": "Hermione Costa",
+				},
+				{
+					"position": "Buiten",
+					"name": "Oskar Kirkland",
+				},
+				{
+					"position": "Buiten",
+					"name": "Franciszek Benitez",
+				},
+				{
+					"position": "Buiten",
+					"name": "Fynley Clifford",
+				},
+				{
+					"position": "Midden",
+					"name": "Jac Myers",
+				},
+				{
+					"position": "Midden",
+					"name": "Edna Avila",
+				},
+				{
+					"position": "Midden",
+					"name": "Lina Hodge",
+				},
+				{
+					"position": "Midden",
+					"name": "Caspian Worthington",
+				}
+
+			]
+		},
+		{
+			"shortName": "D11",
+			"name": "Dames 11",
+			"coach": "Nate Arroyo",
+			"players": [
+				{
+					"position": "Spelverdeler",
+					"name": "Rico Caldwell",
+				},
+				{
+					"position": "Spelverdeler",
+					"name": "Rubi Velez",
+				},
+				{
+					"position": "Spelverdeler",
+					"name": "Tyrique Rossi",
+				},
+				{
+					"position": "Spelverdeler",
+					"name": "Lilliana Li",
+				},
+				{
+					"position": "Buiten",
+					"name": "Nojus Burris",
+				},
+				{
+					"position": "Buiten",
+					"name": "Siya Mcintyre",
+				},
+				{
+					"position": "Buiten",
+					"name": "Joshua Connolly",
+				},
+				{
+					"position": "Buiten",
+					"name": "Zayn Kavanagh",
+				},
+				{
+					"position": "Midden",
+					"name": "Nathanael Daugherty",
+				},
+				{
+					"position": "Midden",
+					"name": "Jody Garrison",
+				},
+				{
+					"position": "Midden",
+					"name": "Gina Mcdonnell",
+				},
+				{
+					"position": "Midden",
+					"name": "Alexis Vinson",
+				}
+			]
+		},
+		{
+			"shortName": "D12",
+			"name": "Dames 12",
+			"coach": "Iman Mcguire",
+			"players": [
+				{
+					"position": "Spelverdeler",
+					"name": "Seth Nash",
+				},
+				{
+					"position": "Spelverdeler",
+					"name": "Vicky Roy",
+				},
+				{
+					"position": "Spelverdeler",
+					"name": "Cari Pacheco",
+				},
+				{
+					"position": "Spelverdeler",
+					"name": "Kyan Hale",
+				},
+				{
+					"position": "Buiten",
+					"name": "Salman Colley",
+				},
+				{
+					"position": "Buiten",
+					"name": "Timur Compton",
+				},
+				{
+					"position": "Buiten",
+					"name": "Una Leon",
+				},
+				{
+					"position": "Buiten",
+					"name": "Giorgio Schofield",
+				},
+				{
+					"position": "Midden",
+					"name": "Ameer Ratliff",
+				},
+				{
+					"position": "Midden",
+					"name": "Iqra Whitmore",
+				},
+				{
+					"position": "Midden",
+					"name": "Carrie-Ann Browning",
+				},
+				{
+					"position": "Midden",
+					"name": "Kellie Delacruz",
+				}
+			]
+		},
+		{
+			"shortName": "D13",
+			"name": "Dames 13",
+			"coach": "Karen Dickens",
+			"players": [
+				{
+					"position": "Omnicapabel",
+					"name": "Ciara Tait",
+				},
+				{
+					"position": "Omnicapabel",
+					"name": "Umer Cortez",
+				},
+				{
+					"position": "Omnicapabel",
+					"name": "Kole Tyler",
+				},
+				{
+					"position": "Omnicapabel",
+					"name": "Molly Donaldson",
+				},
+				{
+					"position": "Omnicapabel",
+					"name": "Stan Keenan",
+				},
+				{
+					"position": "Omnicapabel",
+					"name": "Raiden Maldonado",
+				},
+				{
+					"position": "Omnicapabel",
+					"name": "Elena Lim",
+				},
+				{
+					"position": "Omnicapabel",
+					"name": "Arnas Norman",
+				},
+				{
+					"position": "Omnicapabel",
+					"name": "Eddie Nicholls",
+				},
+				{
+					"position": "Omnicapabel",
+					"name": "Tyrique Rossi",
+				},
+				{
+					"position": "Omnicapabel",
+					"name": "Lilliana Li",
+				},
+				{
+					"position": "Omnicapabel",
+					"name": "Nojus Burris",
+				},
+			]
+		}
+	]
+}

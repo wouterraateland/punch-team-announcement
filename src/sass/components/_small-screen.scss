@@ -1,0 +1,52 @@
+@media screen and (max-width: 767px) {
+	header {
+		position: fixed;
+		left: 0; top: 0; right: 0;
+		z-index: 1;
+
+		box-shadow: 0 2px 6px -2px rgba(0, 0, 0, .5);
+
+		background-color: $punch-blue;
+
+		h1 {
+			transition: margin .4s, font-size .4s;
+		}
+
+		label {
+			float: left;
+			margin: 1rem 1rem 1rem 0;
+
+			font-size: .8em;
+
+			transition: margin .4s;
+		}
+
+		.fortune-wheel {
+			transition: height .4s;
+
+			span { padding: 1em .5em; }
+		}
+
+		&.up {
+			h1 {
+				margin: .5em 0;
+				font-size: 1em;
+			}
+
+			label {
+				margin: .5em 1em .5em 0;
+			}
+
+			.fortune-wheel { height: 2em; }
+
+			& + main {
+				margin-top: 12em;
+			}
+		}
+	}
+
+	main {
+		margin-top: 18em;
+		transition: margin-top .4s;
+	}
+}
