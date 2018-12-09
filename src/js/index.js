@@ -1,7 +1,7 @@
 import FortuneWheels from './components/FortuneWheels';
 import TeamCards from './components/TeamCards';
 import Timer from './Timer';
-import rawData from './data';
+import rawData from './data.json';
 import { decode, shuffle, toTuples } from './dataManipulation';
 import seedrandom from 'seedrandom';
 
